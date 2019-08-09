@@ -40,7 +40,7 @@ Process to discover topics from documents as independent distribution. Disadvant
 
 
 3]HDP Model:
-All topics are considered and learned from tokens to improvise result. Advanced version of LDA Model to get exact concept and terms where discussed in huge documents.
+All topics are considered and learned from tokens to improvise result. Advanced version of LDA Model to get exact concept and terms where discussed in huge documents.outputs in image format
 
 *Coherence Value:
 To find value of N ,N is number of topics considered in Topic Modelling.  
