@@ -26,7 +26,6 @@ ipython==6.4.0
 ipython-genutils==0.2.0
 ipywidgets==7.2.1
 jedi==0.12.0
-
 jmespath==0.9.3
 jsonschema==2.6.0
 jupyter-client==5.2.3
@@ -68,7 +67,6 @@ pywinpty==0.5.4
 pyyaml>=4.2b1
 pyzmq==17.0.0
 regex==2017.11.9
-requests==2.19.1
 s3transfer==0.1.13
 scipy==1.1.0
 Send2Trash==1.5.0
