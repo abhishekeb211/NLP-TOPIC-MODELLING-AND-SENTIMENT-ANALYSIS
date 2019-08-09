@@ -26,8 +26,10 @@ Dataset in different format including huge continuous text and time series data.
 Labelling unsupervised text from topic modelling with extracting Most frequently and highest embedding value Tokens
 •	Dictionary: Creating set of all tokens in document as genism dictionary projection format
 •	Corpus: word embedding process word to vector form
+
 LSI Model:
 Top 10 or N number of topics consider while representing into concept or terms in graphical format
+
 LDA Model:
 Process to discover topics from documents as independent distribution. Disadvantage of this model is optimal solution not achieved in minimal iterations.
 
