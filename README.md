@@ -1,5 +1,5 @@
-# NLP-TOPIC-MODELLING-AND-SENTIMENT-ANALYSIS
-RNN ,LSTM and Multiple Topic Map reduce Algorithms with Sentiment Analysis
+# NLP-TOPIC-MODELLING-
+RNN ,LSTM and Multiple Topic Map reduce Algorithms 
 
 
 Setup Virtual Environment(nlp_requirements.txt)
